@@ -1,5 +1,5 @@
 # CEL-Net
-The corresponding paper title for this project is “R2-YOLO: A Reliable and Resource-efficient Small Object Detector For UAV Aerial Images”. 
+The corresponding paper title for this project is “CEL-Net: Cross-Scale and Edge-Aware Network for Small Object Detection in Remote Sensing”. 
 
 In the future, various data and codes in the paper will gradually be opened up.
 

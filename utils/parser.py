@@ -2,7 +2,7 @@ import argparse
 
 
 def parse_args():
-    parser = argparse.ArgumentParser(description="ICSD-Training")
+    parser = argparse.ArgumentParser(description="CEL-Net-Training")
 
     # default.yaml / parameter to load the model
     parser.add_argument("--config", type=bool, default=True,
