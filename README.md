@@ -18,15 +18,15 @@ CEL-Net is a lightweight detector for small objects in challenging aerial scenes
 
 ### VisDrone
 
-![CEL-Net qualitative results on VisDrone](assert/visdrone_results.png)
+![CEL-Net qualitative results on VisDrone](assert/visdrone_results.jpg)
 
 ### AI-TOD
 
-![CEL-Net qualitative results on AI-TOD](assert/ai_tod_results.png)
+![CEL-Net qualitative results on AI-TOD](assert/ai_tod_results.jpg)
 
 ### UAVDT
 
-![CEL-Net qualitative results on UAVDT](assert/uavdt_results.png)
+![CEL-Net qualitative results on UAVDT](assert/uavdt_results.jpg)
 
 ## Main Results
 
